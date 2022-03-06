@@ -1,0 +1,195 @@
+
+[
+    {
+        "image" : "",
+        "destination" : "Yellowstone National Park",
+        "price" : "Budget",
+        "climate" : "Summer",
+        "type" : "Domestic",
+        "description" : "Yellowstone National Park is the oldest, one of the largest and best-known national parks in the United States. It includes the greatest concentration of hydrothermal features in the world."
+    },
+    {
+        "image" : "",
+        "destination" : "Key West, Florida",
+        "price" : "Budget",
+        "climate" : "Summer",
+        "type" : "Domestic",
+        "description" : "Key West, the southernmost point in the United States, is famous for watersports, lively nightlife, beaches, historic sites and its pastel, conch-style architechture."
+    },
+    {
+        "image" : "",
+        "destination" : "Asheville, North Carolina",
+        "price" : "Budget",
+        "climate" : "Summer",
+        "type" : "Domestic",
+        "description" : "Asheville is a mountain city in western North Carolina. Most notably, Asheville is famous for its Blue Ridge Mountains and Biltmore Estate. While visiting, check out the art scene and architecture."
+    },
+    {
+        "image" : "",
+        "destination" : "Brighton, Utah",
+        "price" : "Budget",
+        "climate" : "Winter",
+        "type" : "Domestic",
+        "description" : "Brighton truly gets the greatest snow on Earth. Averaging 500+ inches annually, and it has topped 700 inches. There's five-star grooming as well as chutes and trees for those who like white knuckle terrain."
+    },
+    {
+        "image" : "",
+        "destination" : "Bolton Valley, Vermont",
+        "price" : "Budget",
+        "climate" : "Winter",
+        "type" : "Domestic",
+        "description" : "Bolton Valley sits high in the Green Mountains of Vermont. It is a unique, high mountain alpine village surrounded by over 5,000 pristine acres. At Bolton Valley the recreational opportunities are as numerous as the views are spectacular. "
+    },
+    {
+        "image" : "",
+        "destination" : "Bozeman, Montana",
+        "price" : "Budget",
+        "climate" : "Winter",
+        "type" : "Domestic",
+        "description" : "Bozeman, Montana is a scenic little town nestled in the Rocky Mountains. It is often described as a sleepy outdoor paradise with excellent food."
+    },
+    {
+        "image" : "",
+        "destination" : "Punta Cana, Dominican Republic",
+        "price" : "Budget",
+        "climate" : "Summer",
+        "type" : "International",
+        "description" : "Sitting on the eastern tip of the Dominican Republic, Punta Cana is a sun-soaked coastal town consisting almost solely of beaches, resorts and tourist amenities."
+    },
+    {
+        "image" : "",
+        "destination" : "Bali, Indonesia",
+        "price" : "Budget",
+        "climate" : "Summer",
+        "type" : "International",
+        "description" : "Bali, the famed Island of the Gods, with its varied landscape of hills and mountains, rugged coastlines and sandy beaches, and barren volcanic hillsides all providing a picturesque backdrop."
+    },
+    {
+        "image" : "",
+        "destination" : "Koh Phi Phi, Thailand",
+        "price" : "Budget",
+        "climate" : "Summer",
+        "type" : "International",
+        "description" : "Koh Phi Phi is a small island archipelago comprised of six islands; two main islands Koh Phi Phi Don and Ko Phi Phi Leh, and smaller islands."
+    },
+    {
+        "image" : "",
+        "destination" : "Whistler, British Columbia",
+        "price" : "Budget",
+        "climate" : "Winter",
+        "type" : "International",
+        "description" : "You'll find Whistler in the Coast Mountains of British Columbia just two hours north of Vancouver. This legendary resort is an international mountain sports mecca and a down-to-earth mountain town."
+    },
+    {
+        "image" : "",
+        "destination" : "Cerro Catedral, Argentina",
+        "price" : "Budget",
+        "climate" : "Winter",
+        "type" : "International",
+        "description" : "At 3,000 acres Cerro Catedral has the largest lift accessed ski terrain in South America, approximately half of which is off-piste terrain. "
+    },
+    {
+        "image" : "",
+        "destination" : "Söll, Austria",
+        "price" : "Budget",
+        "climate" : "Winter",
+        "type" : "International",
+        "description" : "Söll is the number one destination in Austria when it comes to night skiing. A very special experience for any winter sports fans wanting to turn night into day on the slopes."
+    },
+    {
+        "image" : "",
+        "destination" : "Montauk, New York",
+        "price" : "Luxury",
+        "climate" : "Summer",
+        "type" : "Domestic",
+        "description" : "Montauk is located on the Atlantic Ocean and Block Island Sound and is known for beautiful beaches, fishing, surfing, paddling, seafood restaurants, nature trails and events."
+    },
+    {
+        "image" : "",
+        "destination" : "Nantucket, Massachusetts",
+        "price" : "Luxury",
+        "climate" : "Summer",
+        "type" : "Domestic",
+        "description" : "Nantucket Island, located just 30 miles off the coast of Cape Cod, feels like its own little world. An ideal one, where the beaches are always perfectly windswept, the lighthouses are straight out of a postcard, and life goes at a slower pace."
+    },
+    {
+        "image" : "",
+        "destination" : "Maui, Hawaii",
+        "price" : "Luxury",
+        "climate" : "Summer",
+        "type" : "Domestic",
+        "description" : "Maui, known also as “The Valley Isle,” is the second largest Hawaiian island. The island beloved for its world-famous beaches, the sacred Iao Valley, views of migrating humpback whales, farm-to-table cuisine and the magnificent sunrise and sunset from Haleakala."
+    },
+    {
+        "image" : "",
+        "destination" : "Vail, Colorado",
+        "price" : "Luxury",
+        "climate" : "Winter",
+        "type" : "Domestic",
+        "description" : "The town, home to Vail Ski Resort, is the largest ski mountain in Colorado. It is known for its hotels, dining, and for the numerous events the city hosts annually, such as the Vail Film Festival and Burton US Open! "
+    },
+    {
+        "image" : "",
+        "destination" : "Jackson Hole, Wyoming",
+        "price" : "Luxury",
+        "climate" : "Winter",
+        "type" : "Domestic",
+        "description" : "Truly an American original, Jackson Hole is widely known for Jackson Hole Mountain Resort (JHMR), one of the top ski destinations in the country, if not the world."
+    },
+    {
+        "image" : "",
+        "destination" : "Girdwood, Alaska",
+        "price" : "Luxury",
+        "climate" : "Winter",
+        "type" : "Domestic",
+        "description" : "Girdwood is the top destination for downhill skiing and snowboarding in Alaska. Alyeska Resort is the only ski resort in the state, offering one of the longest ski seasons of any mountain in the country."
+    },
+    {
+        "image" : "",
+        "destination" : "Fari Islands, Maldives",
+        "price" : "Luxury",
+        "climate" : "Summer",
+        "type" : "International",
+        "description" : "Meet the Fari Islands, an archipelago made up of four islands found in the North Male Atoll that can only be reached by a 50-minute speedboat ride."
+    },
+    {
+        "image" : "",
+        "destination" : "Dubai, United Arab Emirates",
+        "price" : "Luxury",
+        "climate" : "Summer",
+        "type" : "International",
+        "description" : "Dubai is a city of skyscrapers, ports, and beaches, where big business takes place alongside sun-seeking tourism."
+    },
+    {
+        "image" : "",
+        "destination" : "Santorini, Greece",
+        "price" : "Luxury",
+        "climate" : "Summer",
+        "type" : "International",
+        "description" : "Santorini is a volcanic island in the Cyclades group of the Greek islands. It is famous for dramatic views, stunning sunsets, and naturally its very own active volcano."
+    },
+    {
+        "image" : "",
+        "destination" : "Zermatt, Switzerland",
+        "price" : "Luxury",
+        "climate" : "Winter",
+        "type" : "International",
+        "description" : "Zermatt is famous for its magnificent long ski runs, with terrain for all skill levels, but it also offers outdoor sports for other seasons."
+    },
+    {
+        "image" : "",
+        "destination" : "Courchevel, France",
+        "price" : "Luxury",
+        "climate" : "Winter",
+        "type" : "International",
+        "description" : "It is renowned for having one of the longest ski seasons and the best snow cover in the whole of the Alps. "
+    },
+    {
+        "image" : "",
+        "destination" : "Niseko, Japan",
+        "price" : "Luxury",
+        "climate" : "Winter",
+        "type" : "International",
+        "description" : "Niseko is the largest ski resort in Japan. It is best known for receiving the world's best powder snow throughout winter, and as a relaxed outdoor lifestyle destination during the summer months."
+    }
+]
