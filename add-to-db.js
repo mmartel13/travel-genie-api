@@ -1,8 +1,9 @@
 const { connectDb } = require("./src/connect-db");
 const destinations = require("./destinations.json");
 
+const db = connectDb();
+
 for (let i = 0; i < destinations.length; i++) {
-  const db = connectDb();
   db.collection("destinations")
     .add(destinations[i])
     .then((doc) => {

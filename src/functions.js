@@ -2,20 +2,21 @@ const { connectDb } = require('./connect-db');
 
 const destRef = connectDb().collection('destinations');
 
-function getDestinations() {
+exports.getDestinations = (req, res) => {
     return destRef
     .get()
     .then((snapshot) => {
-        const destinations = [];
-        snapshot.forEach((doc) => {
-            destinations.push({ id: doc.id, ...doc.data() })
-        })
-        return destinations
+        const destinationList = snapshot.docs.map((doc) => {
+            let destination = doc.data();
+            destination.id = doc.id;
+            return destination;
+        });
+        res.status(200).send(destinationList);
     })
-    .catch(console.error)
+    .catch((err) => res.status(500).send(err));
 }
 
-function getFilteredDestinations() {
+exports.getFilteredDestinations = (req, res) => {
     return destRef
     .where('price', '==', 'Budget')
     .where('climate', '==', 'Summer')
@@ -24,10 +25,19 @@ function getFilteredDestinations() {
     .then((snapshot) => {
         const filteredDestinations = [];
         snapshot.forEach((doc) => {
-            filteredDestinations.push({ id: doc.id, ...doc.data() })
+            filteredDestinations.push({ id:doc.id, ...doc.data() })
+            return filteredDestinations
         })
-        return filteredDestinations
+        res.status(200).send(filteredDestinations)
     })
-    .catch(console.error)
+    .catch((err) => res.status(500).send(err))
 }
-module.exports = { getDestinations, getFilteredDestinations };
+
+exports.updateDestination = (req, res) => {
+    const { destinationId } = req.params
+    const isFavorite = req.body.favorite
+    return destRef
+    .doc(destinationId).update({ favorite: isFavorite })
+    .then(doc => res.status(202).send(doc))
+    .catch(err => res.status(500).send(err))
+}

@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-const { getDestinations, getFilteredDestinations } = require('./functions');
+const { getDestinations, getFilteredDestinations, updateDestination } = require('./functions');
 const PORT = process.env.PORT || 3000;
 
 const app = express();
@@ -11,13 +11,7 @@ app.listen(PORT, () => {
   console.log('Listening on Port: ', PORT);
 });
 
-app.get('/destinations', (req, res) => {
-  getDestinations()
-  .then((destinations) => res.status(200).send(destinations));
-});
+app.get('/destinations', getDestinations);
+app.get('/destinations/filtered', getFilteredDestinations);
+app.patch('/destinations/:destinationId', updateDestination);
 
-app.get('/destinations/filtered', (req, res) => {
-  getFilteredDestinations().then((filteredDestinations) =>
-    res.status(200).send(filteredDestinations)
-  );
-});

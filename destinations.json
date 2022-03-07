@@ -6,7 +6,7 @@
         "price" : "Budget",
         "climate" : "Summer",
         "type" : "Domestic",
-        "description" : "Yellowstone National Park is the oldest, one of the largest and best-known national parks in the United States. It includes the greatest concentration of hydrothermal features in the world."
+        "description" : "Yellowstone National Park is one of the largest, oldest and most well-known National Parks in the United States. It includes the greatest concentration of hydrothermal features in the world."
     },
     {
         "image" : "",
@@ -62,7 +62,7 @@
         "price" : "Budget",
         "climate" : "Summer",
         "type" : "International",
-        "description" : "Bali, the famed Island of the Gods, with its varied landscape of hills and mountains, rugged coastlines and sandy beaches, and barren volcanic hillsides all providing a picturesque backdrop."
+        "description" : "Bali, the famed Island of the Gods, with its varied landscape of hills and mountains, rugged coastlines and sandy beaches, and barren volcanic hillsides all providing a picturesque backdrop stakes a serious claim to be paradise on earth."
     },
     {
         "image" : "",
@@ -70,7 +70,7 @@
         "price" : "Budget",
         "climate" : "Summer",
         "type" : "International",
-        "description" : "Koh Phi Phi is a small island archipelago comprised of six islands; two main islands Koh Phi Phi Don and Ko Phi Phi Leh, and smaller islands."
+        "description" : "Koh Phi Phi is a small island archipelago comprised of six islands. With clear-crystal waters, white sand, and lush tropical vegetation, Maya Bay gathers all the postcard clichés in one place"
     },
     {
         "image" : "",
@@ -86,7 +86,7 @@
         "price" : "Budget",
         "climate" : "Winter",
         "type" : "International",
-        "description" : "At 3,000 acres Cerro Catedral has the largest lift accessed ski terrain in South America, approximately half of which is off-piste terrain. "
+        "description" : "At 3,000 acres, Cerro Catedral has the largest lift accessed ski terrain in South America. Approximately half of which is off-piste terrain. "
     },
     {
         "image" : "",
@@ -94,7 +94,7 @@
         "price" : "Budget",
         "climate" : "Winter",
         "type" : "International",
-        "description" : "Söll is the number one destination in Austria when it comes to night skiing. A very special experience for any winter sports fans wanting to turn night into day on the slopes."
+        "description" : "Söll is the number one destination in Austria when it comes to night skiing. A very special experience for any winter sports fan wanting to turn night into day on the slopes."
     },
     {
         "image" : "",
@@ -182,7 +182,7 @@
         "price" : "Luxury",
         "climate" : "Winter",
         "type" : "International",
-        "description" : "It is renowned for having one of the longest ski seasons and the best snow cover in the whole of the Alps. "
+        "description" : "Courchevel is renowned for having one of the longest ski seasons and the best snow cover in the whole of the Alps. It is considered exclusive, attracting wealthy clientele including royal families."
     },
     {
         "image" : "",
@@ -190,6 +190,6 @@
         "price" : "Luxury",
         "climate" : "Winter",
         "type" : "International",
-        "description" : "Niseko is the largest ski resort in Japan. It is best known for receiving the world's best powder snow throughout winter, and as a relaxed outdoor lifestyle destination during the summer months."
+        "description" : "Niseko is the largest ski resort in Japan. It is best known for receiving the world's best snow throughout winter, and as a relaxed outdoor lifestyle destination during the summer months."
     }
 ]
