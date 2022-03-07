@@ -1,7 +1,7 @@
 
 [
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Yellowstone%20National%20Park.jpeg?alt=media",
         "destination" : "Yellowstone National Park",
         "price" : "Budget",
         "climate" : "Summer",
@@ -9,7 +9,7 @@
         "description" : "Yellowstone National Park is one of the largest, oldest and most well-known National Parks in the United States. It includes the greatest concentration of hydrothermal features in the world."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Key%20West.jpeg?alt=media",
         "destination" : "Key West, Florida",
         "price" : "Budget",
         "climate" : "Summer",
@@ -17,7 +17,7 @@
         "description" : "Key West, the southernmost point in the United States, is famous for watersports, lively nightlife, beaches, historic sites and its pastel, conch-style architechture."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Asheville%20North%20Carolina.jpg?alt=media",
         "destination" : "Asheville, North Carolina",
         "price" : "Budget",
         "climate" : "Summer",
@@ -25,7 +25,7 @@
         "description" : "Asheville is a mountain city in western North Carolina. Most notably, Asheville is famous for its Blue Ridge Mountains and Biltmore Estate. While visiting, check out the art scene and architecture."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Brighton%20Utah.jpeg?alt=media",
         "destination" : "Brighton, Utah",
         "price" : "Budget",
         "climate" : "Winter",
@@ -33,7 +33,7 @@
         "description" : "Brighton truly gets the greatest snow on Earth. Averaging 500+ inches annually, and it has topped 700 inches. There's five-star grooming as well as chutes and trees for those who like white knuckle terrain."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Bolton%20Valley%20Vermont.jpeg?alt=media",
         "destination" : "Bolton Valley, Vermont",
         "price" : "Budget",
         "climate" : "Winter",
@@ -41,7 +41,7 @@
         "description" : "Bolton Valley sits high in the Green Mountains of Vermont. It is a unique, high mountain alpine village surrounded by over 5,000 pristine acres. At Bolton Valley the recreational opportunities are as numerous as the views are spectacular. "
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Bozeman%20Montana.jpeg?alt=media",
         "destination" : "Bozeman, Montana",
         "price" : "Budget",
         "climate" : "Winter",
@@ -49,7 +49,7 @@
         "description" : "Bozeman, Montana is a scenic little town nestled in the Rocky Mountains. It is often described as a sleepy outdoor paradise with excellent food."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Punta%20Cana%20DR.jpeg?alt=media",
         "destination" : "Punta Cana, Dominican Republic",
         "price" : "Budget",
         "climate" : "Summer",
@@ -57,7 +57,7 @@
         "description" : "Sitting on the eastern tip of the Dominican Republic, Punta Cana is a sun-soaked coastal town consisting almost solely of beaches, resorts and tourist amenities."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Bali%20Indonesia.jpeg?alt=media",
         "destination" : "Bali, Indonesia",
         "price" : "Budget",
         "climate" : "Summer",
@@ -65,7 +65,7 @@
         "description" : "Bali, the famed Island of the Gods, with its varied landscape of hills and mountains, rugged coastlines and sandy beaches, and barren volcanic hillsides all providing a picturesque backdrop stakes a serious claim to be paradise on earth."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Kho%20Phi%20Phi%20Islands.jpeg?alt=media",
         "destination" : "Koh Phi Phi, Thailand",
         "price" : "Budget",
         "climate" : "Summer",
@@ -73,7 +73,7 @@
         "description" : "Koh Phi Phi is a small island archipelago comprised of six islands. With clear-crystal waters, white sand, and lush tropical vegetation, Maya Bay gathers all the postcard clichés in one place"
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Whistler%20British%20Columbia.jpeg?alt=media",
         "destination" : "Whistler, British Columbia",
         "price" : "Budget",
         "climate" : "Winter",
@@ -81,7 +81,7 @@
         "description" : "You'll find Whistler in the Coast Mountains of British Columbia just two hours north of Vancouver. This legendary resort is an international mountain sports mecca and a down-to-earth mountain town."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Cerro%20Catedral%20Argentina.jpeg?alt=media",
         "destination" : "Cerro Catedral, Argentina",
         "price" : "Budget",
         "climate" : "Winter",
@@ -89,7 +89,7 @@
         "description" : "At 3,000 acres, Cerro Catedral has the largest lift accessed ski terrain in South America. Approximately half of which is off-piste terrain. "
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Soll%20Austria.jpeg?alt=media",
         "destination" : "Söll, Austria",
         "price" : "Budget",
         "climate" : "Winter",
@@ -97,7 +97,7 @@
         "description" : "Söll is the number one destination in Austria when it comes to night skiing. A very special experience for any winter sports fan wanting to turn night into day on the slopes."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Montauk%20New%20York.jpeg?alt=media",
         "destination" : "Montauk, New York",
         "price" : "Luxury",
         "climate" : "Summer",
@@ -105,7 +105,7 @@
         "description" : "Montauk is located on the Atlantic Ocean and Block Island Sound and is known for beautiful beaches, fishing, surfing, paddling, seafood restaurants, nature trails and events."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Nantucket%20Mass.jpeg?alt=media",
         "destination" : "Nantucket, Massachusetts",
         "price" : "Luxury",
         "climate" : "Summer",
@@ -113,7 +113,7 @@
         "description" : "Nantucket Island, located just 30 miles off the coast of Cape Cod, feels like its own little world. An ideal one, where the beaches are always perfectly windswept, the lighthouses are straight out of a postcard, and life goes at a slower pace."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Maui%20Hawaii.jpg?alt=media",
         "destination" : "Maui, Hawaii",
         "price" : "Luxury",
         "climate" : "Summer",
@@ -121,7 +121,7 @@
         "description" : "Maui, known also as “The Valley Isle,” is the second largest Hawaiian island. The island beloved for its world-famous beaches, the sacred Iao Valley, views of migrating humpback whales, farm-to-table cuisine and the magnificent sunrise and sunset from Haleakala."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Vail%20Colorado.jpeg?alt=media",
         "destination" : "Vail, Colorado",
         "price" : "Luxury",
         "climate" : "Winter",
@@ -129,7 +129,7 @@
         "description" : "The town, home to Vail Ski Resort, is the largest ski mountain in Colorado. It is known for its hotels, dining, and for the numerous events the city hosts annually, such as the Vail Film Festival and Burton US Open! "
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Jackson%20Hole%20Wyoming.jpeg?alt=media",
         "destination" : "Jackson Hole, Wyoming",
         "price" : "Luxury",
         "climate" : "Winter",
@@ -137,7 +137,7 @@
         "description" : "Truly an American original, Jackson Hole is widely known for Jackson Hole Mountain Resort (JHMR), one of the top ski destinations in the country, if not the world."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Girdwood%20Alaska.jpeg?alt=media",
         "destination" : "Girdwood, Alaska",
         "price" : "Luxury",
         "climate" : "Winter",
@@ -145,7 +145,7 @@
         "description" : "Girdwood is the top destination for downhill skiing and snowboarding in Alaska. Alyeska Resort is the only ski resort in the state, offering one of the longest ski seasons of any mountain in the country."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Fari%20Islands%20Maldives.jpeg?alt=media",
         "destination" : "Fari Islands, Maldives",
         "price" : "Luxury",
         "climate" : "Summer",
@@ -153,7 +153,7 @@
         "description" : "Meet the Fari Islands, an archipelago made up of four islands found in the North Male Atoll that can only be reached by a 50-minute speedboat ride."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Dubai.jpeg?alt=media",
         "destination" : "Dubai, United Arab Emirates",
         "price" : "Luxury",
         "climate" : "Summer",
@@ -161,7 +161,7 @@
         "description" : "Dubai is a city of skyscrapers, ports, and beaches, where big business takes place alongside sun-seeking tourism."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Santorini%20Greece.jpg?alt=media",
         "destination" : "Santorini, Greece",
         "price" : "Luxury",
         "climate" : "Summer",
@@ -169,7 +169,7 @@
         "description" : "Santorini is a volcanic island in the Cyclades group of the Greek islands. It is famous for dramatic views, stunning sunsets, and naturally its very own active volcano."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Zermatt%20Switzerland.jpeg?alt=media",
         "destination" : "Zermatt, Switzerland",
         "price" : "Luxury",
         "climate" : "Winter",
@@ -177,7 +177,7 @@
         "description" : "Zermatt is famous for its magnificent long ski runs, with terrain for all skill levels, but it also offers outdoor sports for other seasons."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Courchevel%20France.jpg?alt=media",
         "destination" : "Courchevel, France",
         "price" : "Luxury",
         "climate" : "Winter",
@@ -185,7 +185,7 @@
         "description" : "Courchevel is renowned for having one of the longest ski seasons and the best snow cover in the whole of the Alps. It is considered exclusive, attracting wealthy clientele including royal families."
     },
     {
-        "image" : "",
+        "image" : "https://firebasestorage.googleapis.com/v0/b/travel-genie-mm.appspot.com/o/Niseko%20Japan.jpeg?alt=media",
         "destination" : "Niseko, Japan",
         "price" : "Luxury",
         "climate" : "Winter",
