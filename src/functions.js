@@ -18,15 +18,15 @@ exports.getDestinations = (req, res) => {
 
 exports.getFilteredDestinations = (req, res) => {
     return destRef
-    .where('price', '==', 'Budget')
-    .where('climate', '==', 'Summer')
-    .where('type', '==', 'Domestic')
+    .where('price', '==', req.body.price)
+    .where('climate', '==', req.body.climate)
+    .where('type', '==', req.body.type)
     .get()
     .then((snapshot) => {
         const filteredDestinations = [];
         snapshot.forEach((doc) => {
             filteredDestinations.push({ id:doc.id, ...doc.data() })
-            return filteredDestinations
+           return filteredDestinations
         })
         res.status(200).send(filteredDestinations)
     })

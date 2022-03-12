@@ -12,6 +12,6 @@ app.listen(PORT, () => {
 });
 
 app.get('/destinations', getDestinations);
-app.get('/destinations/filtered', getFilteredDestinations);
+app.post('/destinations/filtered', getFilteredDestinations);
 app.patch('/destinations/:destinationId', updateDestination);
 
